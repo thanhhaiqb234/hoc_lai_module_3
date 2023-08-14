@@ -237,9 +237,12 @@ and (timestampdiff(year,ngay_sinh,curdate()) >= 18 and timestampdiff(year,ngay_s
 -- Kết quả hiển thị được sắp xếp tăng dần theo số lần đặt phòng của khách hàng. 
 -- Chỉ đếm những khách hàng nào có Tên loại khách hàng là “Diamond”.
 
-select *
+select khach_hang.ma_khach_hang , khach_hang.ho_ten , count(khach_hang.ma_khach_hang) as so_lan_dat_phong
 from khach_hang
 join hop_dong
 on khach_hang.ma_khach_hang = hop_dong.ma_khach_hang
 join loai_khach
 on loai_khach.ma_loai_khach =  khach_hang.ma_loai_khach
+where loai_khach.ten_loai_khach like 'Diamond'
+group by ma_khach_hang
+order by so_lan_dat_phong
