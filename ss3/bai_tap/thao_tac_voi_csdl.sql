@@ -15,7 +15,8 @@ insert into authors value
 (3,'Dương Trung Quốc'),
 (4,'Lê Văn Hiến'),
 (5,'Hà Văn Minh');
-
+insert into authors value
+(6,'Trương Tấn Hải');
 
 
 insert into students value 
@@ -32,6 +33,8 @@ insert into books value
 (3,'Sử',56,3,2),
 (4,'Địa',76,4,2),
 (5,'Hóa',32,5,1);
+insert into books value
+(6,'Anh',50,6,2);
 
 insert into borrows value
 (1,1,1,'2022-12-12','2022-12-13'),
