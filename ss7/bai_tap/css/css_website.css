@@ -1,0 +1,13 @@
+.logo{
+    text-align: center;
+    word-spacing: 10px;
+}
+.hr-logo{
+    width: 80px;
+    height: 2px;
+    background: #0dbdad;
+}
+.div-img{
+    margin-top: 100px;
+    display: flex;
+}
