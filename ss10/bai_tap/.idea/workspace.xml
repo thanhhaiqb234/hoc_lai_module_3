@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5c478281-7a66-414d-bc6c-189e6fe9828c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/danh_sach_hoc_vien_codegym/src/main/java/controller/HocSinhController.java" beforeDir="false" afterPath="$PROJECT_DIR$/danh_sach_hoc_vien_codegym/src/main/java/controller/HocSinhController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/danh_sach_hoc_vien_codegym/src/main/java/model/HocSinh.java" beforeDir="false" afterPath="$PROJECT_DIR$/danh_sach_hoc_vien_codegym/src/main/java/model/HocSinh.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/danh_sach_hoc_vien_codegym/src/main/java/repository/HocSinhRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/danh_sach_hoc_vien_codegym/src/main/java/repository/HocSinhRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/danh_sach_hoc_vien_codegym/src/main/java/repository/IHocSinhRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/danh_sach_hoc_vien_codegym/src/main/java/repository/IHocSinhRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/danh_sach_hoc_vien_codegym/src/main/java/service/HocSinhService.java" beforeDir="false" afterPath="$PROJECT_DIR$/danh_sach_hoc_vien_codegym/src/main/java/service/HocSinhService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/danh_sach_hoc_vien_codegym/src/main/java/service/IHocSinhService.java" beforeDir="false" afterPath="$PROJECT_DIR$/danh_sach_hoc_vien_codegym/src/main/java/service/IHocSinhService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/danh_sach_hoc_vien_codegym/src/main/webapp/lisi.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/danh_sach_hoc_vien_codegym/src/main/webapp/lisi.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss6/bai_tap/css_design.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss6/bai_tap/css_design.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss6/bai_tap/thuc_hien_code_css_theo_noi_dung_design.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss6/bai_tap/thuc_hien_code_css_theo_noi_dung_design.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2Ub4dG87o9x3UEp5CDNhsOFivaF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/codegym/hoc_lai_module_3/ss10/bai_tap/danh_sach_hoc_vien_codegym",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c478281-7a66-414d-bc6c-189e6fe9828c" name="Changes" comment="" />
+      <created>1693195031616</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693195031616</updated>
+      <workItem from="1693195032604" duration="33000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
