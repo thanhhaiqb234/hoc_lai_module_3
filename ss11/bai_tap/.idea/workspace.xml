@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a79d01dd-db5e-4cd0-8b4c-0f2a6bae10b9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../ss10/bai_tap/danh_sach_hoc_vien_codegym/src/main/webapp/list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/bai_tap/danh_sach_hoc_vien_codegym/src/main/java/controller/HocSinhController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss10/bai_tap/danh_sach_hoc_vien_codegym/src/main/java/controller/HocSinhController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/bai_tap/danh_sach_hoc_vien_codegym/src/main/java/model/HocSinh.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss10/bai_tap/danh_sach_hoc_vien_codegym/src/main/java/model/HocSinh.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/bai_tap/danh_sach_hoc_vien_codegym/src/main/java/repository/HocSinhRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss10/bai_tap/danh_sach_hoc_vien_codegym/src/main/java/repository/HocSinhRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/bai_tap/danh_sach_hoc_vien_codegym/src/main/java/repository/IHocSinhRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss10/bai_tap/danh_sach_hoc_vien_codegym/src/main/java/repository/IHocSinhRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/bai_tap/danh_sach_hoc_vien_codegym/src/main/java/service/HocSinhService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss10/bai_tap/danh_sach_hoc_vien_codegym/src/main/java/service/HocSinhService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/bai_tap/danh_sach_hoc_vien_codegym/src/main/java/service/IHocSinhService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss10/bai_tap/danh_sach_hoc_vien_codegym/src/main/java/service/IHocSinhService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss10/bai_tap/danh_sach_hoc_vien_codegym/src/main/webapp/lisi.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss6/bai_tap/css_design.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss6/bai_tap/css_design.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss6/bai_tap/thuc_hien_code_css_theo_noi_dung_design.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss6/bai_tap/thuc_hien_code_css_theo_noi_dung_design.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2UbTNKMx4C9NCa0sOc7KnJAaHnz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/codegym/hoc_lai_module_3/ss11/bai_tap",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a79d01dd-db5e-4cd0-8b4c-0f2a6bae10b9" name="Changes" comment="" />
+      <created>1693207238855</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693207238855</updated>
+      <workItem from="1693207239843" duration="111000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
