@@ -9,7 +9,7 @@ import java.io.IOException;
 import java.time.LocalDateTime;
 
 @WebServlet(name = "login", value = "/logins")
-public class Login extends HttpServlet {
+public class LoginController extends HttpServlet {
     public static final LoginService loginService = new LoginService();
     @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
