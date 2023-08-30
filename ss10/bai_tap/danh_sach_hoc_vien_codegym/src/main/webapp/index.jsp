@@ -7,6 +7,6 @@
 <body>
 <h1><%= "Hello World!" %></h1>
 <br/>
-<a href="/hocsinhcontroller">Danh Sách Học Sinh</a>
+<a href="/hoc-sinh">Danh Sách Học Sinh</a>
 </body>
 </html>

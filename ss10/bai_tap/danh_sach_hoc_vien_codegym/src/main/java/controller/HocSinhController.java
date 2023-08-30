@@ -10,7 +10,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-@WebServlet(name = "HocSinhController", value = "/hocsinhcontroller")
+@WebServlet(name = "HocSinhController", value = "/hoc-sinh")
 public class HocSinhController extends HttpServlet {
     private static IHocSinhService hocSinhService = new HocSinhService();
 
