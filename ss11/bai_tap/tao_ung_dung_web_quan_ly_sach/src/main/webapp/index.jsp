@@ -7,6 +7,6 @@
 <body>
 <h1><%= "Thư Viện" %></h1>
 <br/>
-<a href="book-servlet">Hiển Thị Thông Tin Các Loại Sách Có Trong Thư Viện</a>
+<a href="books">Hiển Thị Thông Tin Các Loại Sách Có Trong Thư Viện</a>
 </body>
 </html>

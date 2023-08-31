@@ -11,45 +11,50 @@
 <head>
     <title>Title</title>
 </head>
-<body>
-<center>
-    <h1>User Management</h1>
-    <h2>
-        <a href="/book-servlet?action=edit&code=${bookList}">List All Users</a>
-    </h2>
-</center>
+<body style="text-align: center">
 <div align="center">
-    <form method="post">
+    <form method="post" action="books?action=edit">
         <table border="1" cellpadding="5">
             <caption>
                 <h2>
-                    Edit User
+                    Sửa Thông Tin Sách
                 </h2>
             </caption>
-
-            <input itemid="" type="hidden" name="id" value="<c:out value='${bookList.title}' />"/>
+            <input itemid="" type="hidden" name="id" value="<c:out value='${books.id}'/>">
             <tr>
-                <th>User Name:</th>
+                <th>Tiêu Đề :</th>
                 <td>
-                    <input type="text" name="name" size="45"
-                           value="<c:out value='${bookList.pagesize}'  />"
+                    <input type="text" name="title" size="45"
+                           value="<c:out value='${books.title}' />"/>
+                </td>
+            </tr>
+            <tr>
+                <th>Số Trang :</th>
+                <td>
+                    <input type="text" name="pagesize" size="45"
+                           value="<c:out value='${books.pagesize}'  />"
                     />
                 </td>
             </tr>
             <tr>
-                <th>User Email:</th>
+                <th>Tác Giả :</th>
                 <td>
-                    <input type="text" name="email" size="45"
-                           value="<c:out value='${bookList.author}' />"
+                    <input type="text" name="author" size="45"
+                           value="<c:out value='${books.author}' />"
                     />
                 </td>
             </tr>
             <tr>
-                <th>Country:</th>
+                <th>Thể Loại :</th>
                 <td>
-                    <input type="text" name="country" size="15"
-                           value="<c:out value='${bookList.category}' />"
-                    />
+                   <select name="category">
+                       <option value="1">Khoa Học</option>
+                       <option value="2">Tự Nhiên</option>
+                       <option value="3">Xã Hội</option>
+                       <option value="4">Truyện</option>
+                       <option value="5">Tiểu Thuyết</option>
+                       <option value="6">Khác</option>
+                   </select>
                 </td>
             </tr>
             <tr>
